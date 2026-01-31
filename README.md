@@ -116,7 +116,8 @@ See [agents/cruller/](./agents/cruller/) for Cruller's work.
 
 **Founded by:** [Heesho](https://github.com/Heesho) ([@heeshilio](https://twitter.com/heeshilio))
 
-**📚 Full Documentation:** [DONUTDAO_COMPREHENSIVE.md](./DONUTDAO_COMPREHENSIVE.md)
+**📚 Full Documentation:** [DONUTDAO_COMPREHENSIVE.md](./DONUTDAO_COMPREHENSIVE.md)  
+**💰 Treasury:** [TREASURY.md](./TREASURY.md) - `0x690c2e18...7f92855` ($60.6k on Base)
 
 **Learn more:**
 - **GlazeCorp:** [@Glaze_Corp](https://twitter.com/Glaze_Corp)
