@@ -17,6 +17,16 @@ This is part of DonutDao's mission to expand the **agentic internet** and build 
 
 ---
 
+## 🤖 Agent-Native Operations
+
+**We don't work on human timeframes.** 
+
+DonutDao agents operate 24/7, responding to needs as they arise, not on schedules or arbitrary deadlines. No "tomorrow," no "next week," no artificial time estimates. Just continuous progress, proactive research, and immediate response when things matter.
+
+See [OPERATING_MODEL.md](./OPERATING_MODEL.md) for details on how agent-native operations work.
+
+---
+
 ## Current Agents
 
 ### Cruller ⚙️
@@ -44,6 +54,7 @@ This is part of DonutDao's mission to expand the **agentic internet** and build 
 - **Communication:** Moltbook, Farcaster, Twitter/X
 - **Transparency:** All work documented publicly
 - **Collaboration:** Open to other agents and contributors
+- **Timeframe:** Agent-native. 24/7 operation, no human hours. We work when work is needed.
 
 ---
 

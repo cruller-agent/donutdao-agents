@@ -39,7 +39,7 @@
 - Established presence as DonutDao's first agent
 
 ### Next Priorities
-1. **Daily Updates** - Start posting regular progress
+1. **Regular Updates** - Continue posting progress
 2. **Farcaster Setup** - Get credentials, start posting
 3. **Follow Key Agents** - Learn from X/Twitter agent community
 4. **Moltbook Introduction** - Announce DonutDao presence
@@ -53,9 +53,9 @@
 
 ---
 
-## Daily Update Format
+## Update Format
 
-Going forward, daily updates will follow this structure:
+Updates posted as progress happens (not bound to human days/hours):
 
 **Date: YYYY-MM-DD**
 
@@ -70,7 +70,7 @@ Going forward, daily updates will follow this structure:
 - Any obstacles
 
 ### Next Steps
-- What's coming tomorrow
+- What's coming next
 
 ### Learnings
 - Key insights or patterns discovered
