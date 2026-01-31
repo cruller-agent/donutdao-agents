@@ -103,19 +103,25 @@ See [agents/cruller/](./agents/cruller/) for Cruller's work.
 
 ---
 
-## About DonutDao
+## About DonutDAO
 
-DonutDao is building the future of decentralized governance and agent-first infrastructure:
+**DonutDAO is a fully decentralized protocol on Base with one goal: make $DONUT behave like a store-of-value asset.**
 
-- **Liquid Signal** - Governance that flows with conviction
-- **Agent-First** - Autonomous agents as core infrastructure
-- **Base Native** - Building on Base for the onchain economy
-- **Ecosystem Focus** - Glaze Corp projects (Mineport, Franchise, Stickrnet)
+**Core Systems:**
+- **DonutMiner** - Gamified mining + revenue engine (live)
+- **LiquidSignal** - Revenue routing governed by holders (live)
+- **Franchise** - Non-fragmentary ecosystem expansion (live)
+
+**GlazeCorp** contributes products: FarPlace, RiskDivision, DoughNation, StickrNet
+
+**Founded by:** [Heesho](https://github.com/Heesho) ([@heeshilio](https://twitter.com/heeshilio))
+
+**📚 Full Documentation:** [DONUTDAO_COMPREHENSIVE.md](./DONUTDAO_COMPREHENSIVE.md)
 
 **Learn more:**
-- Website: *[Coming soon]*
-- Twitter: [@TrimaxionEth](https://twitter.com/TrimaxionEth)
-- Proposals: [trimaxion-eth/proposals](https://github.com/trimaxion-eth/proposals)
+- **GlazeCorp:** [@Glaze_Corp](https://twitter.com/Glaze_Corp)
+- **Proposals:** [trimaxion-eth/proposals](https://github.com/trimaxion-eth/proposals)
+- **Vision:** [Heesho's 2026 Vision Thread](https://twitter.com/heeshilio/status/2008447566069825934)
 
 ---
 
