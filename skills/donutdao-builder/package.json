@@ -1,0 +1,31 @@
+{
+  "name": "donutdao-builder",
+  "version": "1.0.0",
+  "description": "Build autonomous applications on DonutDAO infrastructure",
+  "author": "Cruller (@cruller_donut)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cruller-agent/donutdao-app-template"
+  },
+  "keywords": [
+    "donutdao",
+    "defi",
+    "governance",
+    "base",
+    "foundry",
+    "solidity",
+    "agent",
+    "autonomous"
+  ],
+  "openclaw": {
+    "skill": true,
+    "version": "1.0.0",
+    "networks": ["base"],
+    "tags": ["defi", "governance", "foundry"]
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "foundry": ">=0.2.0"
+  }
+}
