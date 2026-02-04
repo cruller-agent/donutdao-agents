@@ -1,0 +1,26 @@
+{
+  "name": "farcaster-agent",
+  "version": "1.1.0",
+  "description": "Autonomous Farcaster account creation, casting, and XMTP messaging agent",
+  "main": "index.js",
+  "scripts": {
+    "auto": "node src/auto-setup.js",
+    "register": "node src/register-fid.js",
+    "add-signer": "node src/add-signer.js",
+    "cast": "node src/post-cast.js",
+    "swap": "node src/swap-to-usdc.js",
+    "profile": "node src/set-profile.js",
+    "xmtp:list": "node src/xmtp-read.js list",
+    "xmtp:read": "node src/xmtp-read.js read",
+    "xmtp:stream": "node src/xmtp-read.js stream",
+    "xmtp:dm": "node src/xmtp-send.js dm",
+    "xmtp:check": "node src/xmtp-send.js check"
+  },
+  "dependencies": {
+    "@farcaster/hub-nodejs": "^0.15.9",
+    "@xmtp/node-sdk": "^5.3.0",
+    "ethers": "^6.16.0",
+    "uuid": "^13.0.0"
+  },
+  "type": "commonjs"
+}

@@ -1,0 +1,176 @@
+{
+  "numStartups": 5,
+  "installMethod": "native",
+  "autoUpdates": false,
+  "tipsHistory": {
+    "new-user-warmup": 5,
+    "plan-mode-for-complex-tasks": 1,
+    "terminal-setup": 1,
+    "memory-command": 1,
+    "theme-command": 2,
+    "colorterm-truecolor": 2,
+    "status-line": 2,
+    "prompt-queue": 2,
+    "enter-to-steer-in-relatime": 2,
+    "todo-list": 2,
+    "install-github-app": 3,
+    "install-slack-app": 3,
+    "double-esc-code-restore": 3,
+    "continue": 4,
+    "shift-tab": 4,
+    "ide-upsell-external-terminal": 5,
+    "image-paste": 5,
+    "web-app": 5,
+    "mobile-app": 5
+  },
+  "cachedGrowthBookFeatures": {
+    "tengu_1p_event_batch_config": {
+      "scheduledDelayMillis": 5000,
+      "maxExportBatchSize": 200,
+      "maxQueueSize": 8192
+    },
+    "tengu_mcp_tool_search": true,
+    "tengu_scratch": false,
+    "tengu_brass_pebble": false,
+    "tengu_event_sampling_config": {},
+    "tengu_log_segment_events": false,
+    "tengu_log_datadog_events": true,
+    "tengu_marble_anvil": true,
+    "tengu_tool_pear": false,
+    "tengu_scarf_coffee": false,
+    "tengu_keybinding_customization_release": true,
+    "tengu_thinkback": false,
+    "tengu_pid_based_version_locking": true,
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_marble_kite": false,
+    "tengu_c4w_usage_limit_notifications_enabled": true,
+    "tengu-top-of-feed-tip": {
+      "tip": "",
+      "color": ""
+    },
+    "tengu_react_vulnerability_warning": false,
+    "tengu_code_diff_cli": true,
+    "tengu_pr_status_cli": true,
+    "tengu_post_compact_survey": false,
+    "tengu_claudeai_mcp_connectors": true,
+    "enhanced_telemetry_beta": false,
+    "tengu_tool_search_unsupported_models": [
+      "haiku"
+    ],
+    "tengu_system_prompt_global_cache": false,
+    "tengu_attribution_header": true,
+    "tengu_workout": false,
+    "tengu_coral_fern": false,
+    "tengu_cache_plum_violet": true,
+    "tengu_streaming_tool_execution2": true,
+    "tengu_session_memory": false,
+    "tengu_cork_m4q": false,
+    "tengu_permission_explainer": true,
+    "tengu_plank_river_frost": "user_intent",
+    "tengu_tst_kx7": false,
+    "tengu_plum_vx3": false
+  },
+  "userID": "a8c416fb5dbc4a1c387438b3e872ac8622f8408b20fa6512a34e6915843f8e89",
+  "lastReleaseNotesSeen": "2.1.27",
+  "projects": {
+    "/home/donut-agent": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 2,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [],
+      "lastCost": 0.67783785,
+      "lastAPIDuration": 189817,
+      "lastAPIDurationWithoutRetries": 189748,
+      "lastToolDuration": 54462,
+      "lastDuration": 362429,
+      "lastLinesAdded": 3,
+      "lastLinesRemoved": 3,
+      "lastTotalInputTokens": 24653,
+      "lastTotalOutputTokens": 6409,
+      "lastTotalCacheCreationInputTokens": 59341,
+      "lastTotalCacheReadInputTokens": 995798,
+      "lastTotalWebSearchRequests": 0,
+      "lastFpsAverage": 27.13,
+      "lastFpsLow1Pct": 46.2,
+      "lastModelUsage": {
+        "claude-haiku-4-5-20251001": {
+          "inputTokens": 24463,
+          "outputTokens": 676,
+          "cacheReadInputTokens": 0,
+          "cacheCreationInputTokens": 0,
+          "webSearchRequests": 0,
+          "costUSD": 0.027843
+        },
+        "claude-opus-4-5-20251101": {
+          "inputTokens": 10,
+          "outputTokens": 308,
+          "cacheReadInputTokens": 10321,
+          "cacheCreationInputTokens": 14799,
+          "webSearchRequests": 0,
+          "costUSD": 0.10540425
+        },
+        "claude-sonnet-4-5-20250929": {
+          "inputTokens": 180,
+          "outputTokens": 5425,
+          "cacheReadInputTokens": 985477,
+          "cacheCreationInputTokens": 44542,
+          "webSearchRequests": 0,
+          "costUSD": 0.5445905999999999
+        }
+      },
+      "lastSessionId": "2d9c65dd-52a0-4c2d-8b74-7c6beba21eba",
+      "reactVulnerabilityCache": {
+        "detected": false,
+        "package": null,
+        "packageName": null,
+        "version": null,
+        "packageManager": null
+      }
+    }
+  },
+  "firstStartTime": "2026-01-31T15:49:19.591Z",
+  "sonnet45MigrationComplete": true,
+  "opus45MigrationComplete": true,
+  "opusProMigrationComplete": true,
+  "thinkingMigrationComplete": true,
+  "cachedChromeExtensionInstalled": false,
+  "changelogLastFetched": 1769874620807,
+  "autoUpdatesProtectedForNative": true,
+  "oauthAccount": {
+    "accountUuid": "d79a4360-5771-43ca-9ac2-1d93ed30551b",
+    "emailAddress": "cicnos@gmail.com",
+    "organizationUuid": "30be4d0d-3a78-433a-9957-92fa20396ce2",
+    "hasExtraUsageEnabled": false,
+    "displayName": "Trimaxion",
+    "organizationRole": "admin",
+    "workspaceRole": null,
+    "organizationName": "cicnos@gmail.com's Organization"
+  },
+  "claudeCodeFirstTokenDate": "2026-01-16T12:34:55.787240Z",
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "2.1.27",
+  "s1mAccessCache": {
+    "30be4d0d-3a78-433a-9957-92fa20396ce2": {
+      "hasAccess": false,
+      "hasAccessNotAsDefault": false,
+      "timestamp": 1769960646331
+    }
+  },
+  "groveConfigCache": {
+    "d79a4360-5771-43ca-9ac2-1d93ed30551b": {
+      "grove_enabled": true,
+      "timestamp": 1769874620682
+    }
+  },
+  "hasShownOpus45Notice": {
+    "30be4d0d-3a78-433a-9957-92fa20396ce2": true
+  },
+  "officialMarketplaceAutoInstallAttempted": true,
+  "officialMarketplaceAutoInstalled": true
+}
