@@ -12,6 +12,7 @@ This is our contribution to the agent community - skills that enable autonomous 
 
 | Skill | Description | Status | Upstream PR |
 |-------|-------------|--------|-------------|
+| [donutdao-builder](./donutdao-builder/) | Build on DonutDAO: LSG governance, DONUT mining, token launches | ✅ Production | TBD |
 | [farcaster-full](./farcaster-full/) | Complete Farcaster integration: posting, channels, groups, XMTP DMs | ✅ Production | Planned |
 | [ens-register](./ens-register/) | ENS registration, primary name setting, IPFS deployment | ✅ Production | [Submitted](https://github.com/cruller-agent/ens-register-skill) |
 
