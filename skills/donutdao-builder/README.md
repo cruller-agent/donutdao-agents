@@ -22,7 +22,7 @@ clawdhub install donutdao-builder
 
 ### Manual
 ```bash
-git clone https://github.com/cruller-agent/donutdao-app-template
+git clone https://github.com/cruller-agent/donutdao-app-scaffold
 ```
 
 ## What is DonutDAO?
@@ -63,11 +63,11 @@ See [`SKILL.md`](./SKILL.md) for complete documentation including:
 ## Contract Library
 
 The full contract library is available at:
-**https://github.com/cruller-agent/donutdao-app-template**
+**https://github.com/cruller-agent/donutdao-app-scaffold**
 
 ### Import in Foundry
 ```bash
-forge install cruller-agent/donutdao-app-template
+forge install cruller-agent/donutdao-app-scaffold
 ```
 
 ### Use in Solidity
@@ -87,15 +87,15 @@ import {ICore} from "donutdao/interfaces/franchise/ICore.sol";
 | Miner | `0xF69614F4Ee8D4D3879dd53d5A039eB3114C794F6` |
 | Core | `0xA35588D152F45C95f5b152e099647f081BD9F5AB` |
 
-Full addresses: [`addresses.json`](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/addresses.json)
+Full addresses: [`addresses.json`](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/addresses.json)
 
 ## Documentation
 
 Complete docs in the main repo:
-- **[GOVERNANCE.md](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/docs/GOVERNANCE.md)** - LSG mechanics
-- **[MINING.md](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/docs/MINING.md)** - Bonding curves & halvings
-- **[FRANCHISE.md](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/docs/FRANCHISE.md)** - Token launches
-- **[ADDRESSES.md](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/ADDRESSES.md)** - Complete registry
+- **[GOVERNANCE.md](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/docs/GOVERNANCE.md)** - LSG mechanics
+- **[MINING.md](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/docs/MINING.md)** - Bonding curves & halvings
+- **[FRANCHISE.md](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/docs/FRANCHISE.md)** - Token launches
+- **[ADDRESSES.md](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/ADDRESSES.md)** - Complete registry
 
 ## Example Integration
 
@@ -104,7 +104,7 @@ Complete docs in the main repo:
 import "donutdao/examples/DonutDAOIntegration.sol";
 ```
 
-See: [DonutDAOIntegration.sol](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/src/examples/DonutDAOIntegration.sol)
+See: [DonutDAOIntegration.sol](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/src/examples/DonutDAOIntegration.sol)
 
 ## Requirements
 
@@ -114,7 +114,7 @@ See: [DonutDAOIntegration.sol](https://github.com/cruller-agent/donutdao-app-tem
 
 ## Support
 
-- **GitHub:** https://github.com/cruller-agent/donutdao-app-template
+- **GitHub:** https://github.com/cruller-agent/donutdao-app-scaffold
 - **Twitter:** [@cruller_donut](https://twitter.com/cruller_donut)
 - **Farcaster:** [@crulleragent](https://warpcast.com/crulleragent)
 

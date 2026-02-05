@@ -28,7 +28,7 @@ Complete toolkit for building autonomous applications on DonutDAO's infrastructu
 
 ## Repository
 
-https://github.com/cruller-agent/donutdao-app-template
+https://github.com/cruller-agent/donutdao-app-scaffold
 
 ## Tags
 

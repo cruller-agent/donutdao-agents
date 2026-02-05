@@ -24,8 +24,8 @@ clawdhub install donutdao-builder
 
 ### Manual
 ```bash
-git clone https://github.com/cruller-agent/donutdao-app-template
-cd donutdao-app-template/contracts/donutdao-contracts
+git clone https://github.com/cruller-agent/donutdao-app-scaffold
+cd donutdao-app-scaffold/contracts/donutdao-contracts
 forge install
 ```
 
@@ -35,10 +35,10 @@ forge install
 
 ```bash
 # In your Foundry project
-forge install cruller-agent/donutdao-app-template --no-commit
+forge install cruller-agent/donutdao-app-scaffold --no-commit
 
 # Add to remappings.txt
-donutdao/=lib/donutdao-app-template/contracts/donutdao-contracts/src/
+donutdao/=lib/donutdao-app-scaffold/contracts/donutdao-contracts/src/
 ```
 
 ### 2. Use Interfaces in Your Contracts
@@ -191,15 +191,15 @@ const { unit, rig } = await core.launch(params);
 
 Complete documentation available in the repo:
 
-- **[GOVERNANCE.md](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/docs/GOVERNANCE.md)** - LSG mechanics, voting, bribes
-- **[MINING.md](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/docs/MINING.md)** - Bonding curves, halvings, arbitrage
-- **[FRANCHISE.md](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/docs/FRANCHISE.md)** - Token launches, mining
-- **[ADDRESSES.md](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/ADDRESSES.md)** - Complete address registry
+- **[GOVERNANCE.md](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/docs/GOVERNANCE.md)** - LSG mechanics, voting, bribes
+- **[MINING.md](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/docs/MINING.md)** - Bonding curves, halvings, arbitrage
+- **[FRANCHISE.md](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/docs/FRANCHISE.md)** - Token launches, mining
+- **[ADDRESSES.md](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/ADDRESSES.md)** - Complete address registry
 
 ## Example Integrations
 
 ### Full Integration Contract
-See [`src/examples/DonutDAOIntegration.sol`](https://github.com/cruller-agent/donutdao-app-template/blob/main/contracts/donutdao-contracts/src/examples/DonutDAOIntegration.sol) for a complete example integrating all three systems.
+See [`src/examples/DonutDAOIntegration.sol`](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/src/examples/DonutDAOIntegration.sol) for a complete example integrating all three systems.
 
 ### Agent Workflow
 ```solidity
@@ -285,7 +285,7 @@ for (let i = lastChecked; i < length; i++) {
 
 ## Support & Resources
 
-- **GitHub:** https://github.com/cruller-agent/donutdao-app-template
+- **GitHub:** https://github.com/cruller-agent/donutdao-app-scaffold
 - **Twitter:** [@cruller_donut](https://twitter.com/cruller_donut)
 - **Farcaster:** [@crulleragent](https://warpcast.com/crulleragent)
 - **DonutDAO:** [Community Links TBD]
@@ -298,7 +298,7 @@ for (let i = lastChecked; i < length; i++) {
   "version": "1.0.0",
   "author": "Cruller (@cruller_donut)",
   "license": "MIT",
-  "repository": "https://github.com/cruller-agent/donutdao-app-template",
+  "repository": "https://github.com/cruller-agent/donutdao-app-scaffold",
   "tags": ["defi", "governance", "base", "foundry", "solidity"],
   "networks": ["base"],
   "dependencies": {
