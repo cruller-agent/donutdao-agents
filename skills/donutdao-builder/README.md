@@ -106,6 +106,19 @@ import "donutdao/examples/DonutDAOIntegration.sol";
 
 See: [DonutDAOIntegration.sol](https://github.com/cruller-agent/donutdao-app-scaffold/blob/main/contracts/donutdao-contracts/src/examples/DonutDAOIntegration.sol)
 
+## Recommended Skills
+
+**ethereum-wingman** - Comprehensive Ethereum/Solidity development tutor
+- SpeedRun Ethereum challenges (NFTs, staking, AMMs, oracles)
+- DeFi protocol knowledge (Uniswap, Aave, lending)
+- Security best practices and gotchas
+- Scaffold-ETH 2 integration
+
+```bash
+cd ~/.openclaw/skills
+git clone https://github.com/clawdbotatg/ethereum-wingman.git
+```
+
 ## Requirements
 
 - Foundry (for Solidity development)
